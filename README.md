@@ -1,6 +1,6 @@
 # GSoC-16-final-submission
 
-My proposal for [Cloud] Native Cloud Support for Running WSO2 Middleware on Microsoft Azure was selected for Google Summer of Code 2016. I worked with the organisation WSO2 under the awesome mentor-ship of Imesh Gunaratne and Isuru Haththotuwa. Following is the project description.
+My proposal for [Cloud] Native Cloud Support for Running WSO2 Middleware on Microsoft Azure was selected for Google Summer of Code 2016. I worked with the organization WSO2 under the mentorship of Imesh Gunaratne and Isuru Haththotuwa. Following is the project description.
 
 ##Description
 
